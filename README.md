@@ -21,10 +21,10 @@ Este é um projeto desenvolvido com React que utiliza a PokeAPI para exibir uma 
 ## Como Rodar o Projeto
 
 1. **Clone o repositório**:
-   git clone https://github.com/FelipeBattarra/Pokedex_.git
-
+   git clone https://github.com/GuilhermeBorges12/Pok-dex-Marcio.git
+ 
 2. **Entre no diretório do projeto**:
-    cd pokedex
+    cd pokedex 
 
 3. **Instale as dependências:**
     npm install
